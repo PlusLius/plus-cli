@@ -1,0 +1,27 @@
+{
+  "name": "plus-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlusLius/plus-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bin": {
+    "plus": "plus"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PlusLius/plus-cli/issues"
+  },
+  "homepage": "https://github.com/PlusLius/plus-cli#readme",
+  "devDependencies": {
+    "chalk": "^2.1.0",
+    "commander": "^2.11.0"
+  }
+}
